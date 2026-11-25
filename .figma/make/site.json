@@ -1,0 +1,10 @@
+{
+  "description": "Organiza pagos recurrentes, consulta próximos vencimientos y visualiza tus compromisos mensuales y anuales para administrar mejor tu dinero en pesos mexicanos.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
